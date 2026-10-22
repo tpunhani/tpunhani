@@ -1,48 +1,66 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/tpunhani/">
-  <img align="left" alt="Tarun's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/tarun_punhani">
-  <img align="left" alt="Tarun | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+# Hi, I'm Tarun Punhani 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=tarun)
+### Senior Data Engineer | Software Engineer III at Sam's Club
 
- My name is Tarun Punhani. I have been doing my Master's at UTD. I am passionate about building things. 
+Building reliable data platforms, scalable pipelines, and cloud-native analytics solutions.
 
-### 🛠 &nbsp;Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tpunhani.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tpunhani/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpunhani@gmail.com)
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-<br />
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NPM](https://img.shields.io/badge/npm-05122A?style=flat&logo=npm&logoColor=2C2255)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-<br />
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=C%2B%2B&logoColor=2C2255)&nbsp;
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=2C2255)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=2C2255)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-05122A?style=flat&logo=intellij-idea&logoColor=2C2255)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Sublime](https://img.shields.io/badge/sublime_text-05122A?style=flat&logo=sublime-text&logoColor=2C2255)&nbsp;
+</div>
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/tpunhani/tpunhani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpunhani&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/tpunhani/tpunhani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tpunhani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tarun's GitHub Stats" />
-</a>
+## About Me
 
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tpunhani&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+I'm a software engineer specializing in **data engineering**, with experience building and supporting batch and streaming data pipelines, cloud migrations, data processing frameworks, and forecasting platforms.
+
+At **Sam's Club (Walmart Global Tech)**, I work with **Google Cloud Platform, Databricks, Apache Spark, PySpark, Kafka, BigQuery, and Airflow** to develop reliable data solutions for large-scale operations.
+
+My background spans data engineering, backend development, automation, and production troubleshooting. I hold an **M.S. in Computer Science from the University of Texas at Dallas**.
+
+## What I Work On
+
+- **Cloud data engineering:** Building and migrating data ingestion and processing workflows across cloud platforms.
+- **Batch and streaming pipelines:** Processing data with Kafka, Spark, Databricks, BigQuery, and GCS.
+- **Orchestration and reliability:** Scheduling workflows, monitoring pipelines, improving data quality, and troubleshooting production issues.
+- **Forecasting data platforms:** Preparing historical and operational datasets and supporting production forecasting pipelines.
+- **Engineering efficiency:** Automating deployments, validation, reconciliation, and recurring data operations.
+
+## Tech Stack
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, SQL, Java, Shell scripting |
+| **Data processing** | Apache Spark, PySpark, Spark SQL, Delta Lake |
+| **Cloud & platforms** | Google Cloud Platform (BigQuery, Cloud Storage, Dataproc), Databricks, Azure Data Lake |
+| **Streaming & ingestion** | Apache Kafka, Kafka Connect, Apache Flume, Databricks Auto Loader |
+| **Orchestration & DevOps** | Apache Airflow, Astronomer, Git, Docker, Jenkins, CI/CD |
+| **Databases** | MySQL, MongoDB, Cassandra, Elasticsearch |
+
+## Selected Engineering Experience
+
+**Cloud migration & ingestion**  
+Worked on cloud data migrations and ingestion pipelines integrating streaming sources, cloud storage, and Databricks-based processing.
+
+**Data processing & forecasting**  
+Developed and maintained PySpark and SQL workflows that support operational forecasting, historical-data processing, and data validation.
+
+**Pipeline reliability & optimization**  
+Improved data pipeline reliability through reconciliation, automated testing, production debugging, and cloud resource optimization.
+
+> These are high-level summaries of professional work. Proprietary code, internal architecture, and company data are not published here.
+
+## Beyond Data Engineering
+
+Earlier in my career, I worked on backend systems and test automation, including building **Selenium and Appium automation frameworks** for Android and iOS applications, API testing, and performance testing with JMeter.
+
+## Let's Connect
+
+I'm interested in connecting with engineers and teams working on **data platforms, distributed systems, cloud infrastructure, and large-scale analytics**.
+
+- 🌐 **Portfolio:** [tpunhani.github.io/Portfolio](https://tpunhani.github.io/Portfolio/)
+- 💼 **LinkedIn:** [linkedin.com/in/tpunhani](https://www.linkedin.com/in/tpunhani/)
+- ✉️ **Email:** [tpunhani@gmail.com](mailto:tpunhani@gmail.com)
+
